@@ -2,6 +2,8 @@
 
 This repository contains a Playwright test automation project with the solution to the Home test assignments for QA Analyst position at Circula. Those autotests are covering the main checks from the checklist created for the first task.
 
+The full checklist for all 3 tasks is located [here](https://docs.google.com/spreadsheets/d/1M_ABrOZX-5emzoM0l31c2qM6DKoGdkAjFdCvQGrcil4/edit?gid=0#gid=0).
+
 ## Project Structure
 
 ```
